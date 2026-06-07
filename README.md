@@ -6,7 +6,7 @@
 
 #
 
-Me chamo Lucas Schmitt Assing, tenho 21 anos e sou natural de Santa Catarina. Atualmente curso Ciência da Computação na Estácio de Sá.".
+Me chamo Lucas Schmitt Assing, tenho 22 anos e sou natural de Santa Catarina. Atualmente curso Ciência da Computação na Estácio de Sá.".
  
 #
 
