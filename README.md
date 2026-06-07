@@ -66,11 +66,11 @@ Me chamo Lucas Schmitt Assing, tenho 22 anos e sou natural de Santa Catarina. At
 
 <img
     align="left"
-    alt="Vercel"
-    title="Vercel"
+    alt="FastAPI"
+    title="FastAPI"
     width="30px"
     style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg"
 />
 
 <img
